@@ -9,4 +9,4 @@ I design it in response to [This Tweet](https://twitter.com/hamedbd/status/85836
 # Contributions
 
 This reflect personal Ideas. If you want to add more shape you should first add *.XML file to [This Website](https://draw.io) and
-edit and make Pull Request. I marge yours if not conflict with git as well as my options.
+edit and make Pull Request. I marge yours if not conflict with git as well as my opinion.
